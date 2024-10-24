@@ -1,0 +1,10 @@
+{
+  "appId": "com.troubleshoot.app",
+  "appName": "android-14-troubleshooting",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
